@@ -19,6 +19,8 @@ BIG THANKS TO
     📮 https://github.com/krizynofc
 ⤿ ArullOfc
     📮 https://github.com/Warikrr
+⤿ Alfin
+    📮 https://github.com/Raya2399
 THANKS PARA DONASI YANG TERHORMAT
 `
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 

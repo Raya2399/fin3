@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ AlFIN',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -54,6 +54,7 @@ const defaultMenu = {
 ⫹⫺ Ilmanhdyt
 ⫹⫺ Elyas
 ⫹⫺ Hyzer
+⫹⫺ Alfin
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
 ⫹⫺ ArullOfc
@@ -322,7 +323,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: '𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈',
             listType: 1,
-            footerText: "ᴀʀᴜʟʟᴏꜰᴄ",
+            footerText: "FIN",
             mtype: 'listMessage',
             sections: [
               {

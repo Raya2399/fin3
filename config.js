@@ -19,7 +19,7 @@ global.pulsa = '081332995497'
 global.gopay = '081332995497'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'Fin-MD'
 global.gc = 'https://chat.whatsapp.com/JbUIV45JBqO199knmigsOP'
 global.web = 'https://github.com/Raya2399' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/Rimuru233'
